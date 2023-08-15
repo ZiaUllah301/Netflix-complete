@@ -1,0 +1,15 @@
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  class="default-ltr-cache-0 e1mhci4z1"
+  data-name="CircleCheckmarkFill"
+  aria-hidden="true"
+><path
+    fill-rule="evenodd"
+   clipRule="evenodd"
+    d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24ZM11.7071 15.7071L17.7071 9.70711L16.2929 8.29289L11 13.5858L8.70711 11.2929L7.29289 12.7071L10.2929 15.7071L11 16.4142L11.7071 15.7071Z"
+    fill="rgb(229, 9, 20)"
+  /></svg>

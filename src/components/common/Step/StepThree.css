@@ -1,0 +1,49 @@
+.step-three {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 26rem;
+  margin-top: 50px;
+  padding: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.step-three-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enc {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+.lock {
+  color: rgb(231, 202, 35);
+}
+.payment-div {
+  width: 100%;
+  border: 1px solid;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.payment-div p {
+  margin-top: 10px;
+}
+.pay {
+  width: 40%;
+  height: 50px;
+  margin-left: 10px;
+}
+@media (max-width: 354px) {
+  .debit {
+    font-size: small;
+  }
+}

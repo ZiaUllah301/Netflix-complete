@@ -1,0 +1,77 @@
+.caption-check {
+  display: flex;
+}
+.caption-text {
+  margin-left: 10px;
+}
+.check-icon {
+  color: red;
+}
+.plan-card {
+  width: 130px;
+  height: 130px;
+  background-color: rgb(202, 23, 23);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  margin-right: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.plane-container {
+  display: flex;
+  justify-content: end;
+}
+.price-lable {
+  display: flex;
+  border-bottom: 1px solid;
+  border-color: rgb(194, 193, 193);
+  margin-top: 10px;
+  align-items: center;
+}
+.Monthly {
+  display: flex;
+  justify-content: space-between;
+  width: 46%;
+}
+.price {
+  display: flex;
+  justify-content: space-between;
+  width: 52%;
+  margin-top: 5px;
+}
+.tag {
+  width: 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.device {
+  font-size: 64px;
+}
+.device-name {
+  font-size: 12px;
+}
+.device-container {
+  border: none;
+}
+.trem {
+  color: rgb(50, 50, 243);
+}
+.button-card {
+  width: 40%;
+}
+.button-div {
+  display: flex;
+  justify-content: center;
+}
+.selected {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+}
+.selected-card {
+  background-color: red;
+}

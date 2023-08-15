@@ -1,0 +1,31 @@
+/* VideoPlayerPage.css */
+/* .fullscreen-video-container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+} */
+
+/* Ensure the VideoPlayer takes up the full container */
+/* .vjs-tech {
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+} */
+body {
+    margin: 0;
+    padding: 0;
+  }
+.video-player-1689667279126-dimensions {
+    width: 100vw;
+    height: 100vh;
+}
+
+.video-js {
+    height: "100vh";
+    width: "100vw";
+}
+
+a {
+    border: "2px solid red"
+}
